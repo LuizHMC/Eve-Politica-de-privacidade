@@ -1,4 +1,4 @@
-# Eve-Politica-de-privacidade
+# Eve - Privacy Policy
 Eve app privacy policy
 
 The service for whom this privacy policy is being drafted is an application called Eve
