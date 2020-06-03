@@ -1,33 +1,31 @@
 # Eve-Politica-de-privacidade
-Politica de privacidade do aplicativo Eve
+Eve app privacy policy
 
-O serviço para o qual esta política de privacidade está sendo redigida é um aplicativo chamado Eve
+The service for whom this privacy policy is being drafted is an application called Eve
 
-As pessoas que receberão os pedidos de alteração, remoção ou portabilidade dos dados pessoais do usuário são Luiz Henrique Monteiro de Carvaho e Pedro Giuliano Farina.
+As people who receive changes requests, remove or carry personal data of the user are Luiz Henrique Monteiro de Carvaho and Pedro Giuliano Farina.
 
-E-mail para o qual os usuários poderão solicitar a alteração, remoção ou portabilidade de seus dados pessoais é 
-lhmcarvx5@gmail.com
+Email for which user can request changes, removal or portability of their personal data is lhmcarvx5@gmail.com
 
-Endereço completo do responsável pela alteração, remoção ou portabilidade dos dados pessoais do usuário é
-SP - São Paulo, Avenida Direitos Humanos, 2031
+Full address responsible for the alteration, removal or portability of the user's personal data is SP - São Paulo, Avenida Direitos Humanos, 2031
 
-O usuário não precisa realizar um cadastro para acessar os servicos do aplicativo.
+The user does not need to register to access the application services.
 
-O aplicativo não tem um formulário de contato que o usuário podera utilizar, um email direto sobre o problema ou requerimento pode ser mandado para lhmcarvx5@gmail.com
+The application does not have a contact form that the user can use, a direct email about the problem or the request that can be requested to lhmcarvx5@gmail.com
 
-O aplicativo não inclui venda online de produtos e nem de serviços e não oferece aos usuários a possibilidade de receber newsletter.
+The application does not include online sale of products or services and does not offer users the possibility to receive the newsletter.
 
-O aplicativo não coletára dados sensiveis do usuário e não coleta dados do usuário para a definição de perfis (profiling), nem permite que terceiros o façam.
+The application does not collect sensitive user data and does not collect user data for profiling (profile creation), nor does it allow third parties to do so.
 
-Os dados pessoais recolhidos dos usuários serão conservados por tempo determinado (ao final do período de 1 ano eles serão apagados).
+Personal data collected from users will be kept for a specified period of time (at the end of the 1-year period they will be deleted).
 
-Os dados pessoais do usuário não serão compartilhados com outras pessoas ou empresas
+The user's personal data will not be shared with other people or companies
 
-Quem é responsável pelo tratamento dos dados (data controller)? O responsável pelo tratamento dos dados (data controller) é a pessoa responsável por determinar o que será feito com os dados pessoais dos usuários (ex: o que será coletado, por que será coletado, etc.). O editor do aplicativo em conjunto com outras pessoas. O editor (pessoa responsável) do site/aplicativo é uma pessoa física. E os responsaveis são Pedro Giuliano Farina e Luiz Henrique Monteiro de Carvalho e os emails respectivos dos editores do aplicativo são pedrogfarina@gmail.com e lhmcarvx5@gmail.com.
+The data controller (data controller) is a person responsible for determining what will be done with the users' personal data. The editor of the application together with other people. The publisher (responsible person) of the website / application is an individual. Those responsible are Pedro Giuliano Farina and Luiz Henrique Monteiro de Carvalho and the emails sent by the editors of the application are pedrogfarina@gmail.com and lhmcarvx5@gmail.com.
 
-Endereço completo do editor do site/aplicativo é SP - São Paulo. Avenida Direitos Humanos, 2031
+Full address of the application editor is SP - São Paulo. Avenida Direitos Humanos, 2031
 
-O nome completo/razão social e e-mail das pessoas que, em conjunto com o editor do site/aplicativo, serão responsáveis por determinar o que será feito com os dados pessoais dos usuários (data controller) são:
+The full name / social name of the email address of the people who, together with the website / application editor, will be responsible for determining or what will be done with the users' personal data (data controller) are:
 
 lhmcarvx5@gmail.com - Luiz Henrique Monteiro de Carvalho
 eloisamariafalcao@gmail.com - Eloísa Maria Falcão
@@ -35,19 +33,17 @@ pedrogfarina@gmail.com - Pedro Giuliano Farina
 julia.fsantos2@gmail.com - Julia Ferreira dos Santos
 felipekpetersen@gmail.com - Felipe Kaça Petersen
 
- O responsável pelo tratamento dos dados (data controller) se encarregará diretamente do tratamento dos dados
+The data controller (data controller) will protect himself directly from the data processing
 
-Os encarregados de proteção de dados (data protection officer), profissional encarregado de verificar o cumprimento da política de privacidade do site/aplicativo são Pedro Giuliano Farina e Luiz Henrique Monteiro de Carvalho
+Data protection officials (data protection officer), professional in charge of verifying compliance with the privacy policy of the application are Pedro Giuliano Farina and Luiz Henrique Monteiro de Carvalho
 
-E-mail dos encarregados de proteção de dados (data protection officer) pedrogfarina@gmail.com e lhmcarvx5@gmail.com
+E-mail of those involved in data protection pedrogfarina@gmail.com and lhmcarvx5@gmail.com
 
-O site/aplicativo não faz uso de "cookies" (dados de navegação), sejam próprios ou de terceiros.
+The application does not use "cookies" (navigation data), whether exclusive or third parties.
 
-O usuário não será notificado caso o site/aplicativo altere sua política de privacidade e deve consultar periodicamente a política de privacidade  Não, o usuário deverá consultar periodicamente a política de privacidade para ver se ela foi atualizada
+The user will not be notified if the application changes its privacy policy and must periodically consult the privacy policy No, the user requests to periodically consult the privacy policy to see if it has been used
 
-Esta Política de Privacidade está sendo preenchida no dia 29/05/2020
-
-
+This privacy policy is being completed on 29/05/2020
 
 
 
@@ -92,8 +88,6 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 ## Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2020-04-24
 
 ## Contact Us
 
